@@ -103,22 +103,13 @@ Abra uma [issue aqui](../../issues).
 
 ## Criadores
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/yanghyperx"><img src="https://github.com/yanghyperx.png?size=100" width="80" alt="Yang" /></a><br/>
-      <a href="https://github.com/yanghyperx"><b>Yang</b></a><br/>
-      <sub>Engenharia</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zHobbit02"><img src="https://github.com/zHobbit02.png?size=100" width="80" alt="Victor" /></a><br/>
-      <a href="https://github.com/zHobbit02"><b>Victor</b></a><br/>
-      <sub>Produto &amp; Design</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">Feito pela equipe da <a href="https://github.com/True-Ltda"><b>True Ltda</b></a>.</p>
 
-Feito pela equipe da [True Ltda](https://github.com/True-Ltda).
+<p align="center">
+  <a href="https://github.com/yanghyperx"><img src="assets/criador-yang.svg" width="340" alt="Yang, Engenharia" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zHobbit02"><img src="assets/criador-victor.svg" width="340" alt="Victor, Produto e Design" /></a>
+</p>
 
 ## Suporte
 
